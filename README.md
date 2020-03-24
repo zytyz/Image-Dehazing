@@ -1,5 +1,5 @@
 
-ML final
+Image Dehazing
 ===
 
 ## requirements
